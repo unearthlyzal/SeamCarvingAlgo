@@ -10,3 +10,7 @@ The second code avoids nested loops and manual computation, instead, it uses vec
 ![download (6)](https://github.com/user-attachments/assets/903b2936-34b6-4307-9635-144144c893c5)
 ![download (7)](https://github.com/user-attachments/assets/1156cbae-9f35-4e59-8e35-bb7ecf45a0db)
 ![download (8)](https://github.com/user-attachments/assets/4c2b6e4b-5d60-497b-943e-367c15c4af79)
+
+SUBMITTED BY
+120210335 Abdelrahman Amr abdelrahman.abokhalil@ejust.edu.eg
+120210389 Salma Amin Noureddin salma.noureddin@ejust.edu.eg
